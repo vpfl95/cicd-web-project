@@ -9,6 +9,6 @@
     <h1>${msg}</h1>
     <h1>Hi, there Jenkins Test22222222222</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.2.5</h3>
+    <h3>Version: 1</h3>
 </body>
 </html>
